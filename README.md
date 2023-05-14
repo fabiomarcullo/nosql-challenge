@@ -39,7 +39,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
       This is the preview of the first 10 rows:
    
 <div>
-  <img src="Image/result.png" align="right" width="600" />
+  <img src="Image/result.png" align="right" width="550" />
   <table>
     <thead>
       <tr>
